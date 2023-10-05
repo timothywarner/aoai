@@ -26,6 +26,9 @@
 - [Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
 - [Azure OpenAI pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
 - [Training: Introduction to Azure Open AI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)
+- [Code samples @ GitHub](https://github.com/Azure-Samples/openai)
+- [More code samples @ GitHub](https://github.com/Azure/openai-samples)
+- [Even more code samples @ GitHub](https://github.com/Azure/azure-openai-samples)
 
 ## The New Bing
 
